@@ -29,4 +29,4 @@ EXPOSE 22
 CMD ["/usr/sbin/sshd", "-D"]
 
 # Clone the repository from GitHub (Task 1.)
-RUN git clone "https://github.com/yungshenglu/Pacet_Manipulation.git"
+RUN git clone "https://github.com/yungshenglu/Packet_Manipulation.git"
